@@ -16,5 +16,3 @@ h2. Install
 Drop the 'defug.css' file into your NaturalDocs project directory and call it with the '-s' switch.
 
 After the docs are generated, just drop the rest of the directories from 'styes' into your documentation's 'styles' directory. Don't worry, they'll stay put when you regerate the docs.
-
-The other three items are updates to existing NaturalDocs code that support some of the Defugulators features, but aren't strictly necessary.
