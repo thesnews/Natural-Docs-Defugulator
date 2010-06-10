@@ -6,9 +6,9 @@ You can find more info about NaturalDocs at "http://www.naturaldocs.org/":http:/
 
 h2. This package includes
 
- - Icons from "Fat Cow Hosting":http://www.fatcow.com/
- - "Inconsolata":http://www.fontsquirrel.com/fontfacedemo/Inconsolata font designed by "Raph Levien":http://levien.com/
- - "Liberation Sans":http://www.fontsquirrel.com/fonts/Liberation-Sans font designed at "Red Hat":http://www.redhat.com
+ * Icons from "Fat Cow Hosting":http://www.fatcow.com/
+ * "Inconsolata":http://www.fontsquirrel.com/fontfacedemo/Inconsolata font designed by "Raph Levien":http://levien.com/
+ * "Liberation Sans":http://www.fontsquirrel.com/fonts/Liberation-Sans font designed at "Red Hat":http://www.redhat.com
  
  
 h2. Install
