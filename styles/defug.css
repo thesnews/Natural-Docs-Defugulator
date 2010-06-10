@@ -103,6 +103,8 @@ blockquote {
 
 
     .MTitle {
+ 		font-family: 'LiberationSansBold';
+    	font-size: 28px;
         text-align: center;
         padding: 5px 10px 15px 10px;
         margin-bottom: 15px }
